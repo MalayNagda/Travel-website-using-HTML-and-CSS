@@ -10,11 +10,11 @@ The entire project can be explored using the 'MainFile.html' document. The image
 Some pictures of the website can be seen below-
 
 <p align="center">
-  <img src="images/form.png">
+  <img src="images/form.PNG">
 </p>
 <p align="center">
-  <img src="images/lists.png">
+  <img src="images/lists.PNG">
 </p>
 <p align="center">
-  <img src="images/city.png">
+  <img src="images/city.PNG">
 </p>
